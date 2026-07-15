@@ -87,7 +87,7 @@
     </header>
 
     <main>
-        <h2>CSS BATCH 2013 Monthly Financial Report <br>JAN-JULY 2026</h2></br>
+        <h2>CSS BATCH 2013 Monthly Financial Report <br>JAN-JULY 2026</h2>
         <p>Below is the summary of the organization's income and expenditure from January to July.</p>
         
         <table>
