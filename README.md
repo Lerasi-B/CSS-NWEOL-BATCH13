@@ -257,12 +257,7 @@
 		    <td>2,000</td>
 
 
-                </tr>
-            </tbody>
-        </table>
-
-    </main>
-
+               
     <footer>
 	<b>Total monthly dues from Jan to July: 57,000</b>
         <p>Community Secondary School Nweol batch 2013 is the most coordinated batch in the world</p>
