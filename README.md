@@ -177,7 +177,8 @@
 	
     <a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH-2013-MONTHLY-DUES/" class="payment-link">Click here to check monthly report of the year</a>
     <footer>
-        <p>&copy; 2026 Led Exco All Rights Reserved.</p>
-    </footer>
+	  </footer>
 
+        <p>&copy; 2026 Led Exco All Rights Reserved.</p>
+  
 
