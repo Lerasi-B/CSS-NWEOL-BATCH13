@@ -175,7 +175,7 @@
        
 
 	
-    <a href="[https://lerasi-b.github.io/CSS-NWEOL-BATCH-2013-MONTHLY-DUES/ ">Click here to check monthly report of the year</a>
+    <a href="https://lerasi-b.github.io/CSS-NWEOL-BATCH-2013-MONTHLY-DUES/ ">Click here to check monthly report of the year</a>
     <footer>
 	  </footer>
 
