@@ -6,7 +6,7 @@
         body {
             font-family: Arial, sans-serif;
             background: #f4f4f4;
-            margin: 20px;
+            margin: 0px;
         }
 
         .container {
@@ -175,7 +175,7 @@
        
 
 	
-    <a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH-2013-MONTHLY-DUES/" class="payment-link">Click here to check monthly report of the year</a>
+    <a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH-2013-MONTHLY-DUES/"class="payment-link">Click here to check monthly report of the year</a>
     <footer>
 	  </footer>
 
