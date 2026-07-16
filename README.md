@@ -163,11 +163,7 @@
             <td class="expense">15,000</td>
             
         
-        </tr
-
-
-
-Monthly Dues from Jan-July
+        </tr>
 
         <tr>
             <th colspan="2">Total</th>
@@ -178,15 +174,12 @@ Monthly Dues from Jan-July
         <tr>
             <th colspan="3">Balance</th>
             <th style="color:white;">₦101,450</th>
-        </tr>
-    </table>
+       
 
 	
     <a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH-2013-MONTHLY-DUES/" class="payment-link">Click here to check monthly report of the year</a>
     <footer>
         <p>&copy; 2026 Led Exco All Rights Reserved.</p>
     </footer>
-</div>
 
-</body>
-</html>
+
