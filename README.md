@@ -99,12 +99,12 @@
 
  <tr>
             <td>03/01/2026</td>
-            <td>Voluntary fees paid at Get Together</td>
+            <td>Voluntary fees paid at                Get-together</td>
             <td class="income">30,000</td>
             <td>-</td>
 	 </tr>
 
-	 <td>03/07/2026</td>
+	 <tr> <td>03/07/2026</td>
             <td>Total get-Together Expenses </td>
             <td>-</td>
             <td class="expense">266,550</td>
@@ -112,7 +112,7 @@
 
  <tr>
             <td>0/03/2026</td>
-            <td>Condolence visit to Promise /kpegediba for the lost of his mom</td>
+            <td>Condolence visit to Promise kpegediba for the lost of his mom</td>
             <td>-</td>
 	    <td class="expense">15,300</td>
             
