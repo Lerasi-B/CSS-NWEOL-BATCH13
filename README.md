@@ -174,7 +174,7 @@ Monthly Dues from Jan-July
             <th class="income">₦422,000</th>
             <th class="expense">₦320,550</th>
         </tr>
-
+		
         <tr>
             <th colspan="3">Balance</th>
             <th style="color:white;">₦101,450</th>
