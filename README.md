@@ -179,6 +179,6 @@
     <footer>
 	  </footer>
 
-        <p>&copy; 2026 Led Exco All Rights Reserved.</p>
+        <p class="bottom-text">&copy; 2026 Led Exco All Rights Reserved.</p>
   
 
