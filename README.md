@@ -161,8 +161,6 @@
             <td>Leerabari Agbora's Wedding Support</td>
 	    <td>-</td>
             <td class="expense">15,000</td>
-            
-        
         </tr>
 
         <tr>
