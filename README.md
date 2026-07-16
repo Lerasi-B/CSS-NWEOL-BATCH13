@@ -180,7 +180,7 @@ Monthly Dues from Jan-July
             <th style="color:white;">₦101,450</th>
         </tr>
     </table>
-    <a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH13/" class="payment-link">Click here to checkthe full account report of the year</a>
+    <a href="https://lerasi-b.github.io/CSS-NWEOL-BATCH-2013-MONTHLY-" class="payment-link">Click here to checkthe full account report of the year</a>
     <footer>
         <p>&copy; 2026 Led Exco All Rights Reserved.</p>
     </footer>
