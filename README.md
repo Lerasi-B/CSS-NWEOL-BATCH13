@@ -10,7 +10,7 @@
         }
 
         .container {
-            width: 100%;
+            width: 90%;
             margin: auto;
             background: white;
             padding: 20px;
