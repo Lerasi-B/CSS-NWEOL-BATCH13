@@ -99,7 +99,7 @@
 
     <div class="section">
         <h2>Quick Links</h2>
-        <p><a href="#">Monthly Reports</a></p>
+        <p><a href="https://lerasi-b.github.io/CSS/">Monthly dues</a></p>
         <p><a href="#">Gallery</a></p>
         <p><a href="#">Executive Members</a></p>
 
