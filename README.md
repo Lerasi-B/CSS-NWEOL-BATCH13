@@ -57,7 +57,9 @@
 <body>
 
 <header>
-    <img src="img_1950.jpeg" alt="Association Logo" class="logo">
+    
+<img src="img_1950.jpg" alt="CSS NWEOL BATCH 2013 Logo" class="logo">
+
 
     <h1>CSS NWEOL BATCH 2013</h1>
 
