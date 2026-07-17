@@ -57,10 +57,8 @@
 <body>
 
 <header>
+<img src="IMG_1950.jpeg" alt="CSS NWEOL BATCH 2013 Logo" width="150">
     
-<img src="img_1950.jpeg" alt="CSS NWEOL BATCH 2013 Logo" class="logo">
-
-
     <h1>CSS NWEOL BATCH 2013</h1>
 
     <h3>Motto: Unity, Progress and Service</h3>
