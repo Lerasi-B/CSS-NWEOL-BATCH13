@@ -102,6 +102,8 @@
         <p><a href="#">Monthly Reports</a></p>
         <p><a href="#">Gallery</a></p>
         <p><a href="#">Executive Members</a></p>
+
+        <p><a href="https://lerasi-b.github.io/Report/">Finacial Report of Jan-June,2026</a></p>
         <p><a href="#">Contact Us</a></p>
     </div>
 
