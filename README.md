@@ -1,189 +1,122 @@
-
+<!DOCTYPE html>
 <html>
 <head>
-    <title>INCOME/EXPENSE PAGE</title>
+    <title>CSS NWEOL BATCH 2013</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: #f4f4f4;
-            margin: 0px;
+            background-color: #0b1f4d;
+            color: white;
+            margin: 0;
+            padding: 0;
         }
 
-        .container {
-            width: 90%;
-            margin: auto;
-            background: white;
+        header {
+            text-align: center;
             padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px gray;
+            background-color: #061433;
+        }
+
+        .logo {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
         }
 
         h1 {
-            text-align: center;
-            color: darkblue;
+            color: gold;
         }
 
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
         }
 
-        table, th, td {
-            border: 1px solid black;
-        }
-
-        th {
-            background: darkblue;
-            color: white;
-        }
-
-        th, td {
-            padding: 10px;
-            text-align: center;
-        }
-
-        .income {
-            color: green;
-            font-weight: bold;
-        }
-
-        .expense {
-            color: red;
-            font-weight: bold;
+        .section {
+            background-color: rgba(255,255,255,0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
         }
 
         footer {
             text-align: center;
-            margin-top: 20px;
-            color: gray;
+            padding: 15px;
+            background-color: #061433;
+        }
+
+        a {
+            color: gold;
+            text-decoration: none;
         }
     </style>
 </head>
 
 <body>
 
+<header>
+    <img src="logo.png" alt="Association Logo" class="logo">
+
+    <h1>CSS NWEOL BATCH 2013</h1>
+
+    <h3>Motto: Unity, Progress and Service</h3>
+</header>
+
 <div class="container">
-    <h1>CSS NWE-OL Batch 2013</h1>
-    <h2 style="text-align:center;">Income & Expenditure Report</h2>
 
-    <table>
-        <tr>
-            <th>Date</th>
-            <th>Description</th>
-            <th>Income (₦)</th>
-            <th>Expenditure (₦)</th>
-        </tr>
+    <div class="section">
+        <h2>Welcome</h2>
+        <p>
+            Welcome to the official website of CSS NWEOL BATCH 2013.
+            We are a united body of former students committed to promoting
+            friendship, supporting one another, celebrating achievements,
+            and extending help to members and people in need.
+        </p>
+    </div>
 
-        <tr>
-            <td>01/07/2026</td>
-            <td>2025 Old Development Fund </td>
-            <td class="income">61,000</td>
-            <td>-</td>
-        </tr>
+    <div class="section">
+        <h2>Brief History</h2>
+        <p>
+            CSS NWEOL BATCH 2013 was formed by former students who graduated
+            from Community Secondary School Nweol in 2013. The association
+            was established to maintain the bond created during our school days,
+            foster unity among members, and contribute positively to society.
+        </p>
+    </div>
 
-        <tr>
-            <td>03/07/2026</td>
-            <td>Get-Together Vows </td>
-            <td class="income">174,000</td>
-	    <td>-</td>
+    <div class="section">
+        <h2>Our Objectives</h2>
+        <ul>
+            <li>Promote unity and friendship among members.</li>
+            <li>Support members during celebrations and challenges.</li>
+            <li>Assist the less privileged in our communities.</li>
+            <li>Encourage educational and developmental projects.</li>
+            <li>Preserve the legacy of our alma mater.</li>
+        </ul>
+    </div>
 
-        </tr>
+    <div class="section">
+        <h2>Quick Links</h2>
+        <p><a href="#">Monthly Reports</a></p>
+        <p><a href="#">Gallery</a></p>
+        <p><a href="#">Executive Members</a></p>
+        <p><a href="#">Contact Us</a></p>
+    </div>
 
-        <tr>
-            <td>03/01/2026</td>
-            <td>Get Together Registration Fees</td>
-            <td class="income">21,000</td>
-            <td>-</td>
-	 </tr>
+</div>
 
- <tr>
-            <td>03/01/2026</td>
-            <td>Voluntary fees paid at                Get-together</td>
-            <td class="income">30,000</td>
-            <td>-</td>
-	 </tr>
+<footer>
+    <p>&copy; 2026 CSS NWEOL BATCH 2013. All Rights Reserved.</p>
+</footer>
 
-	 <tr> <td>03/07/2026</td>
-            <td>Total get-Together Expenses </td>
-            <td>-</td>
-            <td class="expense">266,550</td>
-	 </tr>
-
- <tr>
-            <td>0/03/2026</td>
-            <td>Condolence visit to Promise kpegediba for the lost of his mom</td>
-            <td>-</td>
-	    <td class="expense">15,300</td>
-            
-	 </tr>
- <tr>
-            <td>30/06/2026</td>
-            <td>Monthly dues from Jan-Dec 2026.</td>
-            <td class="income">76,000</td>
-            <td>-</td>
-	 </tr>
- <tr>
-            <td>20/11/2025</td>
-            <td>Friday Didi Wedding Contribution</td>
-            <td class="income">17,000</td>
-	    <td>-</td>
-            
-	 </tr>
- <tr>
-            <td>20/12/2026</td>
-            <td>Gift Imaabolo Wedding Contributions</td>
-	  
-            <td class="income">4,000</td>
-	    <td>-</td>
-            
-	 </tr>
-
- <tr>
-            <td>028/06/2026</td>
-            <td>Physical Meeting Contribution at Artilery Ph</td>
-            <td class="income">39,000</td>
-            <td>-</td>
-	 </tr>
-
- <tr>
-            <td>05/07/2026</td>
-            <td>Get Expenses on /drinks/meatin Physcal Meeting </td>
-	    <td>-</td>
-            <td class="expense">23,700</td>
-            
-	 </tr>
+</body>
+</html>
 
 
 
-	<tr>
-            <td>05/07/2026</td>
-            <td>Leerabari Agbora's Wedding Support</td>
-	    <td>-</td>
-            <td class="expense">15,000</td>
-        </tr>
 
-        <tr>
-            <th colspan="2">Total</th>
-            <th class="income">₦422,000</th>
-            <th class="expense">₦320,550</th>
-        </tr>
-		
-        <tr>
-            <th colspan="3">Balance</th>
-            <th style="color:white;">₦101,450</th>
-       
-   
 
-    <br>
 
-	
-    <a href="https://lerasi-b.github.io/CSS/ ">Click here to check monthly report of the year</a>
-    <footer>
-	  </footer>
-
-	  <a href="https://chat.whatsapp.com/E60jh7Kk5FUJA6dE9YBrYP?s=cl&p=i&ilr=0&amv=0">Click here to join our whatsapp platform</a>
-
-        <p class="bottom-text">&copy; 2026 Led Exco All Rights Reserved.</p>
-  
 
