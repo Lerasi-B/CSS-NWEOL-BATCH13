@@ -173,16 +173,10 @@
             <th colspan="3">Balance</th>
             <th style="color:white;">₦101,450</th>
        
-   </table>
+   
 
     <br>
 
-    <a href="YOUR_GOOGLE_FORM_LINK" target="_blank" class="form-button">
-        Register and Upload Passport Photograph
-    </a>
-
-</body>
-</html>
 	
     <a href="https://lerasi-b.github.io/CSS/ ">Click here to check monthly report of the year</a>
     <footer>
