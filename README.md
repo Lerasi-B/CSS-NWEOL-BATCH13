@@ -4,15 +4,15 @@
     <title>CSS NWEOL BATCH 2013</title>
 
     <style>
-        body{
+body {
     font-family: Arial, sans-serif;
-    url('IMG_1970.jpeg');
+    background-image: url('IMG_1965.jpeg');
+    background-size: cover;
+    background-position: center;
     color: white;
     margin: 0;
     padding: 0;
 }
-            
-        }
 
         header {
             text-align: center;
