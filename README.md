@@ -91,6 +91,7 @@
     </div>
 
     <div class="section">
+    <div class="container">
         <h2>Our Objectives</h2>
         <ul>
             <li>Promote unity and friendship among members.</li>
