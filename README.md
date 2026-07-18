@@ -8,7 +8,7 @@
     background-image: url('IMG_1970.jpeg');
     background-size: cover;
     background-position: center;
-    color: navy;
+    color: white;
     margin: 0;
     padding: 0;
 
@@ -38,7 +38,8 @@
         }
 
         .section {
-            background-color: rgba(255,255,255,0.1);
+            background-color: rgba(6, 20, 51, 0.1);
+
             padding: 20px;
             margin-bottom: 20px;
             border-radius: 10px;
