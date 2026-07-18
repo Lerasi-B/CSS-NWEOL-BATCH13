@@ -3,13 +3,15 @@
 <head>
     <title>CSS NWEOL BATCH 2013</title>
 
-    <style>
     body {
     font-family: Arial, sans-serif;
-    background-color: #0b1f4d;
+    background-image: url('IMG_1965.jpeg');
+    background-size: cover;
+    background-position: center;
     color: white;
     margin: 0;
     padding: 0;
+
     }
 
 
