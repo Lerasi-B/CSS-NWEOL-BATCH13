@@ -5,9 +5,12 @@
      <style>
     body {
     font-family: Arial, sans-serif;
-    background-image: url('IMG_1970.jpeg');
+    background:
+        linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+        url('IMG_1965.jpeg');
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     color: white;
     margin: 0;
     padding: 0;
