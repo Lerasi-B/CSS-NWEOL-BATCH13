@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>CSS NWEOL BATCH 2013</title>
-
+     <style>
     body {
     font-family: Arial, sans-serif;
     background-image: url('IMG_1965.jpeg');
