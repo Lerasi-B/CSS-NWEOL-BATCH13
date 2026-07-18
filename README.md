@@ -6,7 +6,7 @@
     <style>
         body{
     font-family: Arial, sans-serif;
-    url('IMG_6924.jpeg');
+    url('IMG_1970.jpeg');
     color: white;
     margin: 0;
     padding: 0;
