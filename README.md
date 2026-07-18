@@ -8,7 +8,7 @@
     background-image: url('IMG_1970.jpeg');
     background-size: cover;
     background-position: center;
-    color: white;
+    color: navy;
     margin: 0;
     padding: 0;
 
