@@ -5,11 +5,7 @@
 
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #0b1f4d;
-            color: white;
-            margin: 0;
-            padding: 0;
+            url('IMG_1965.jpeg');
         }
 
         header {
