@@ -4,8 +4,14 @@
     <title>CSS NWEOL BATCH 2013</title>
 
     <style>
-        body {
-            url('IMG_1965.jpeg');
+        body{
+    font-family: Arial, sans-serif;
+    url('IMG_6924.jpeg');
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+            
         }
 
         header {
