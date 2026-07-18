@@ -6,7 +6,7 @@
     <style>
 body {
     font-family: Arial, sans-serif;
-    background-image: url('IMG_1965.jpeg');
+    background-image: url('IMG_1970.jpeg');
     background-size: cover;
     background-position: center;
     color: white;
